@@ -1,3 +1,0 @@
-101_editor.pbo
-AiA_A1AlwaysDummy.pbo
-AiA_BaseConfig_F.pbo
