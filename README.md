@@ -1,0 +1,12 @@
+<p style="text-align:center;"><span style="font-size:24px;"><strong>Launcher Arma 3 - AltisDEV</strong></span></p>
+<p style="text-align:center;"><strong>=================================<br><span style="color:#ff0000;"><span style="font-size:14px;">Supported System</span></span></strong></p>
+<p style="text-align:center;"><strong>=================================</strong><br><strong>Windows 7 <span rel='lightbox'><img class='bbc_img' src="http://www.vinhovirtual.com.br/img/icon/positivo.gif" alt="positivo.gif"></span><br>
+Windows 8.1&nbsp;</strong><strong><span rel='lightbox'><img class='bbc_img' src="http://www.vinhovirtual.com.br/img/icon/positivo.gif" alt="positivo.gif"></span></strong><br><strong>Windows Vista&nbsp;</strong><strong><span rel='lightbox'><img class='bbc_img' src="http://www.vinhovirtual.com.br/img/icon/positivo.gif" alt="positivo.gif"></span></strong><br><strong>32 Bits&nbsp;</strong><strong><span rel='lightbox'><img class='bbc_img' src="http://www.vinhovirtual.com.br/img/icon/positivo.gif" alt="positivo.gif"></span></strong><br><strong>64 Bits&nbsp;</strong><strong><span rel='lightbox'><img class='bbc_img' src="http://www.vinhovirtual.com.br/img/icon/positivo.gif" alt="positivo.gif"></span></strong><br><strong>==================================<br><span style="color:#ff0000;">Prints System</span></strong></p>
+<p style="text-align:center;"><strong>==================================</strong><br><br><span rel='lightbox'><img class='bbc_img' src="http://i.imgur.com/MW58wuv.png" alt="MW58wuv.png"></span><br><br><span rel='lightbox'><img class='bbc_img' src="http://i.imgur.com/wuoAfxJ.png" alt="wuoAfxJ.png"></span><br><strong>========================================<br><span style="color:#ff0000;">Stand Game Tracker</span><br>
+========================================</strong><br><span rel='lightbox'><img class='bbc_img' src="http://i.imgur.com/E4cwk1d.png" alt="E4cwk1d.png"></span><br><strong>==================================<br><span style="color:#ff0000;">Messge News</span><br>
+===================================</strong><br><span rel='lightbox'><img class='bbc_img' src="http://i.imgur.com/lAIYHBw.png" alt="lAIYHBw.png"></span><br><strong>==============================<br><span style="color:#ff0000;">Credits &amp; Thanks</span><br>
+==============================<br>
+Translation @<span style="color:#ff0000;">HoGamer</span><br>
+Source Launcher @<span style="color:#ff0000;">MrDarkSkil</span><br>
+System LoginIPB @<span style="color:#ff0000;">RenildoMarcio</span><br>
+=============================<br>
